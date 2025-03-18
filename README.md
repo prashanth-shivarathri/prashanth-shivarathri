@@ -45,6 +45,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-<img src="C:\Users\shiva\OneDrive\Pictures\.trashed-1718350039-IMG_20240114_120727.jpg" alt="pic is not found">
+<img src="https://www.istockphoto.com/photo/python-programming-language-concept-woman-developer-with-her-hand-holding-modern-gm1189210101-336645526?utm_source=pixabay&utm_medium=affiliate&utm_campaign=sponsored_photo&utm_content=srp_topbanner_media&utm_term=python+programming" alt="pic is not found">
 
 ###
