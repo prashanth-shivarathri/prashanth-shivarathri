@@ -45,5 +45,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="C:\Users\shiva\OneDrive\Pictures\.trashed-1718350039-IMG_20240114_120727.jpg" alt="pic is not found">
 
 ###
