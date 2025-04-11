@@ -77,4 +77,4 @@
 ###
 ## Watch snake eating my github contribution
 
-![snake gif](https://github.com/prashanth-shivarathri/prashanth-shivarathri/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/prashanth-shivarathri/prashanth-shivarathri/blob/output/github-contribution-grid-snake.svg)
