@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is ...Prashanth and I'm a ...Fresher, from ....Miryalagudha</h2>
 <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Prashi 👋 I'm a 🚀 Python developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/prashanth-shivarathri/prashanth-shivarathri/raw/main/assets/github.gif" alt="Hi, I'm Prashi 👋 I'm a 🚀 Python developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
 
