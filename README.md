@@ -4,7 +4,7 @@
 
 
 HI BABY WHERE ARE YOU GOING <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />  
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 
 ###
