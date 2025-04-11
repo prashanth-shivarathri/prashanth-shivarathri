@@ -1,4 +1,12 @@
 <h2 align="left">Hi 👋! My name is ...Prashanth and I'm a ...Fresher, from ....Miryalagudha</h2>
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Prashi 👋 I'm a 🚀 Python developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+
+
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
 
 ###
 
