@@ -1,10 +1,8 @@
 <h2 align="left">Hi 👋! My name is ...Prashanth and I'm a ...Fresher, from ....Miryalagudha</h2>
-<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>
- <marquee behavior="" direction="">prashanth</marquee>
- <h1 style=position=relative
-            top="2000px" cellpadding="100">prashanth</h1>
 
- <img  height="200" width="100%" src="https://github.com/prashanth-shivarathri/prashanth-shivarathri/blob/main/J59.gif"  alt="" >
+ 
+
+ <img  height="200" width="100%" src=""  alt="" >
     
 HI BABY WHERE ARE YOU GOING <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />  
     <img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
