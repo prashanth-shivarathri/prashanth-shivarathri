@@ -1,6 +1,10 @@
 <h2 align="left">Hi 👋! My name is ...Prashanth and I'm a ...Fresher, from ....Miryalagudha</h2>
 <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>
-<img src=""C:\Users\shiva\Downloads\J59.gif"" alt="not found">
+<img src="https://github.com/prashanth-shivarathri/prashanth-shivarathri/blob/main/J59.gif" width="100%" height="200px" alt="not found">
+<img style="border-radius: 1rem;" src="https://github.com/prashanth-shivarathri/prashanth-shivarathri/blob/main/J59.gif" width="100%" height="200px"  alt="not found">
+
+
+
 
 
 
