@@ -1,78 +1,10 @@
 <h2 align="left">Hi 👋! My name is ...Prashanth and I'm a ...Fresher, from ....Miryalagudha</h2>
 <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-    <title>Document</title>
-    <style>
-        img{
-            height: 200px;
-            width: 100%;
-            border-radius: 20px;
-        }
-#typing-text {
-  font-size: 24px;
-  font-family: monospace;
-  border-right: 2px solid black;
-  padding-right: 5px;
-  animation: blink 0.5s infinite;
-  position: relative;
-            top: -200px;
-            color: brown;
-            font-size: 100px;
-}
 
-@keyframes blink {
-  0% {
-    border-right-color: black;
-  }
-  50% {
-    border-right-color: transparent;
-  }
-  100% {
-    border-right-color: black;
-  }
-}
-
+ <img style="height: 200px;
+    width: 100%;
+    border-radius: 20px;" src="./videos/J59.gif" alt="">
     
-
-        
-    </style>
-</head>
-<body>
-    
-
-    <img src="" alt="">
-    <div id="typing-text"></div>
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script>
-        AOS.init();
-      </script>
-      <script>const typingText = document.getElementById('typing-text');
-        const text = 'this is prashanth.';
-        let index = 0;
-        
-        function typeText() {
-          if (index < text.length) {
-            typingText.innerHTML += text[index];
-            index++;
-            setTimeout(typeText, 200); // adjust the speed of typing
-          }
-        }
-        
-        typeText();
-        </script>
-</body>
-</html>
-
-
-
-
-
-
 HI BABY WHERE ARE YOU GOING <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />  
     <img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
