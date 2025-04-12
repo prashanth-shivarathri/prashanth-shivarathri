@@ -1,8 +1,9 @@
 <h2 align="left">Hi 👋! My name is ...Prashanth and I'm a ...Fresher, from ....Miryalagudha</h2>
 
  
+  <video controls autoplay muted src="https://github.com/prashanth-shivarathri/prashanth-shivarathri/blob/main/prashanth.mp4"></video>
 
- <img  height="200" width="100%" src=""  alt="" >
+ <img  height="200" width="100%" src="https://github.com/prashanth-shivarathri/prashanth-shivarathri/blob/main/prashanth.gif"  alt="" >
     
 HI BABY WHERE ARE YOU GOING <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />  
     <img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
