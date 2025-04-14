@@ -43,7 +43,7 @@
 ###
 ## Watch snake eating my github contribution
 
-![snake gif](https://github.com/prashanth-shivarathri/prashanth-shivarathri/blob/output/snake.gif)
+![snake gif](https://github.com/prashanth-shivarathri/prashanth-shivarathri/blob/output/snake.svg)
 
 
 
