@@ -1,6 +1,7 @@
 <img  height="200" width="100%" src="https://github.com/prashanth-shivarathri/prashanth-shivarathri/blob/main/Untitled%20design.gif"  alt="" >
+<h3>I'm a Python developer from India.I build applications/API's in Django ,You can ofthen see me exploring new technologies , I do enjoy working with Backend Techologies like Django,Python,Sql. take a look at my repositories - some of my best works are pinned here..... <img    src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h3>
     
- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />  
+  
  
   <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> 
 
