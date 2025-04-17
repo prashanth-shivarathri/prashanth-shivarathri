@@ -1,8 +1,9 @@
 <img  height="200" width="100%" src="https://github.com/prashanth-shivarathri/prashanth-shivarathri/blob/main/Untitled%20design.gif"  alt="" >
-<h3>I'm a Python developer from India.I build applications/API's in Django ,You can ofthen see me exploring new technologies , I do enjoy working with Backend Techologies like Django,Python,Sql. take a look at my repositories - some of my best works are pinned here..... <img    src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h3>
+<h2>👋 Hey there! I'm a Python developer from India, passionate about building robust applications and APIs using Django. My primary focus lies in backend development, where I enjoy working with technologies like Python, Django, and SQL to create efficient and scalable solutions. <br> <br>
+    I'm always exploring new tools and technologies to keep growing as a developer—whether it's diving into emerging frameworks or experimenting with fresh ideas. <br> <br>
+    Feel free to check out my GitHub repositories—I’ve pinned some of my best projects that showcase the kind of work I love doing...!
+    <img    src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h2>
     
-  
- 
   <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> 
 
 
