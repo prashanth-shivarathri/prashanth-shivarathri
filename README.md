@@ -1,5 +1,5 @@
 <img  height="200" width="100%" src="https://github.com/prashanth-shivarathri/prashanth-shivarathri/blob/main/Untitled%20design.gif"  alt="" >
-<h2>👋 Hey there! I'm a Python developer from India, passionate about building robust applications and APIs using Django. My primary focus lies in backend development, where I enjoy working with technologies like Python, Django, and SQL to create efficient and scalable solutions. <br> <br>
+<h2 >👋 Hey there! I'm a Python developer from India, passionate about building robust applications and APIs using Django. My primary focus lies in backend development, where I enjoy working with technologies like Python, Django, and SQL to create efficient and scalable solutions. <br> <br>
     I'm always exploring new tools and technologies to keep growing as a developer—whether it's diving into emerging frameworks or experimenting with fresh ideas. <br> <br>
     Feel free to check out my GitHub repositories—I’ve pinned some of my best projects that showcase the kind of work I love doing....!
     <img    src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h2>
